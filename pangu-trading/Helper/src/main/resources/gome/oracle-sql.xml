@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <databases>
+        <database id="Gome.OracleSample">
+            <!-- for Oracle -->
+            <driver_class>oracle.jdbc.driver.OracleDriver</driver_class>
+            <url>jdbc:oracle:thin:@10.126.53.186:1521:orcl</url>
+            <username>virtual_account_uat</username>
+            <password>kjhsksjIW982</password>
+            <sqls>
+                <sql id="query">
+                    select * from G_PANGU_BASE_VIRTUAL t where t.USER_ID='${userID}'
+                </sql>
+            </sqls>
+        </database>
+    </databases>
+</configuration>

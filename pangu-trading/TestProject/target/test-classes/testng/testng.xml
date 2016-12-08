@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="SuiteAll">
+
+
+  <listeners>
+    <listener class-name="com.gome.test.testng.RetryListener"/>
+  </listeners>
+  <test name="addItemsToCart01">
+    <classes>
+      <class name="com.gome.test.api.pangutrading.shoppingcartclient.AddItemsToCartTest">
+        <methods>
+          <include name="ShoppingCartClient_addItemsToCart_addItemsToCart01"/>
+        </methods>
+      </class> <!-- com.gome.test.api.pangutrading.shoppingcartclient.AddItemsToCartTest -->
+    </classes>
+  </test> <!-- addItemsToCart01 -->
+  <test name="addItemsToCart02">
+    <classes>
+      <class name="com.gome.test.api.pangutrading.shoppingcartclient.AddItemsToCartTest">
+        <methods>
+          <include name="ShoppingCartClient_addItemsToCart_addItemsToCart02"/>
+        </methods>
+      </class> <!-- com.gome.test.api.pangutrading.shoppingcartclient.AddItemsToCartTest -->
+    </classes>
+  </test> <!-- addItemsToCart02 -->
+  <test name="addItemsToCart03">
+    <classes>
+      <class name="com.gome.test.api.pangutrading.shoppingcartclient.AddItemsToCartTest">
+        <methods>
+          <include name="ShoppingCartClient_addItemsToCart_addItemsToCart03"/>
+        </methods>
+      </class> <!-- com.gome.test.api.pangutrading.shoppingcartclient.AddItemsToCartTest -->
+    </classes>
+  </test> <!-- addItemsToCart03 -->
+  <test name="addItemsToCart04">
+    <classes>
+      <class name="com.gome.test.api.pangutrading.shoppingcartclient.AddItemsToCartTest">
+        <methods>
+          <include name="ShoppingCartClient_addItemsToCart_addItemsToCart04"/>
+        </methods>
+      </class> <!-- com.gome.test.api.pangutrading.shoppingcartclient.AddItemsToCartTest -->
+    </classes>
+  </test> <!-- addItemsToCart04 -->
+  <test name="addItemsToCart05">
+    <classes>
+      <class name="com.gome.test.api.pangutrading.shoppingcartclient.AddItemsToCartTest">
+        <methods>
+          <include name="ShoppingCartClient_addItemsToCart_addItemsToCart05"/>
+        </methods>
+      </class> <!-- com.gome.test.api.pangutrading.shoppingcartclient.AddItemsToCartTest -->
+    </classes>
+  </test> <!-- addItemsToCart05 -->
+  <test name="addItemToCart01">
+    <classes>
+      <class name="com.gome.test.api.pangutrading.shoppingcartclient.AddItemToCartTest">
+        <methods>
+          <include name="ShoppingCartClient_addItemToCart_addItemToCart01"/>
+        </methods>
+      </class> <!-- com.gome.test.api.pangutrading.shoppingcartclient.AddItemToCartTest -->
+    </classes>
+  </test> <!-- addItemToCart01 -->
+  <test name="addItemToCart02">
+    <classes>
+      <class name="com.gome.test.api.pangutrading.shoppingcartclient.AddItemToCartTest">
+        <methods>
+          <include name="ShoppingCartClient_addItemToCart_addItemToCart02"/>
+        </methods>
+      </class> <!-- com.gome.test.api.pangutrading.shoppingcartclient.AddItemToCartTest -->
+    </classes>
+  </test> <!-- addItemToCart02 -->
+  <test name="addItemToCart04">
+    <classes>
+      <class name="com.gome.test.api.pangutrading.shoppingcartclient.AddItemToCartTest">
+        <methods>
+          <include name="ShoppingCartClient_addItemToCart_addItemToCart04"/>
+        </methods>
+      </class> <!-- com.gome.test.api.pangutrading.shoppingcartclient.AddItemToCartTest -->
+    </classes>
+  </test> <!-- addItemToCart04 -->
+  <test name="addItemToCart05">
+    <classes>
+      <class name="com.gome.test.api.pangutrading.shoppingcartclient.AddItemToCartTest">
+        <methods>
+          <include name="ShoppingCartClient_addItemToCart_addItemToCart05"/>
+        </methods>
+      </class> <!-- com.gome.test.api.pangutrading.shoppingcartclient.AddItemToCartTest -->
+    </classes>
+  </test> <!-- addItemToCart05 -->
+  <test name="addItemToCartAndReturnCommerceItem01">
+    <classes>
+      <class name="com.gome.test.api.pangutrading.shoppingcartclient.AddItemToCartAndReturnCommerceItemTest">
+        <methods>
+          <include name="ShoppingCartClient_addItemToCartAndReturnCommerceItem_addItemToCartAndReturnCommerceItem01"/>
+        </methods>
+      </class> <!-- com.gome.test.api.pangutrading.shoppingcartclient.AddItemToCartAndReturnCommerceItemTest -->
+    </classes>
+  </test> <!-- addItemToCartAndReturnCommerceItem01 -->
+  <test name="addItemToCartAndReturnCommerceItem02">
+    <classes>
+      <class name="com.gome.test.api.pangutrading.shoppingcartclient.AddItemToCartAndReturnCommerceItemTest">
+        <methods>
+          <include name="ShoppingCartClient_addItemToCartAndReturnCommerceItem_addItemToCartAndReturnCommerceItem02"/>
+        </methods>
+      </class> <!-- com.gome.test.api.pangutrading.shoppingcartclient.AddItemToCartAndReturnCommerceItemTest -->
+    </classes>
+  </test> <!-- addItemToCartAndReturnCommerceItem02 -->
+  <test name="addItemToCartAndReturnCommerceItem04">
+    <classes>
+      <class name="com.gome.test.api.pangutrading.shoppingcartclient.AddItemToCartAndReturnCommerceItemTest">
+        <methods>
+          <include name="ShoppingCartClient_addItemToCartAndReturnCommerceItem_addItemToCartAndReturnCommerceItem04"/>
+        </methods>
+      </class> <!-- com.gome.test.api.pangutrading.shoppingcartclient.AddItemToCartAndReturnCommerceItemTest -->
+    </classes>
+  </test> <!-- addItemToCartAndReturnCommerceItem04 -->
+  <test name="addItemToCartAndReturnCommerceItem05">
+    <classes>
+      <class name="com.gome.test.api.pangutrading.shoppingcartclient.AddItemToCartAndReturnCommerceItemTest">
+        <methods>
+          <include name="ShoppingCartClient_addItemToCartAndReturnCommerceItem_addItemToCartAndReturnCommerceItem05"/>
+        </methods>
+      </class> <!-- com.gome.test.api.pangutrading.shoppingcartclient.AddItemToCartAndReturnCommerceItemTest -->
+    </classes>
+  </test> <!-- addItemToCartAndReturnCommerceItem05 -->
+
+</suite> <!-- SuiteAll -->

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.gome.stage:stage-model:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/gome/stage/stage-model/1.0.0-SNAPSHOT/stage-model-1.0.0-20161207.023356-4060.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/gome/stage/stage-model/1.0.0-SNAPSHOT/stage-model-1.0.0-20161207.023356-4060-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/gome/stage/stage-model/1.0.0-SNAPSHOT/stage-model-1.0.0-20161207.023356-4060-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

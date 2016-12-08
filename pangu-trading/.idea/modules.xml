@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ORDER-trading-modules.iml" filepath="$PROJECT_DIR$/ORDER-trading-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Helper/pangutrading.iml" filepath="$PROJECT_DIR$/Helper/pangutrading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestProject/pangutradingTests.iml" filepath="$PROJECT_DIR$/TestProject/pangutradingTests.iml" />
+    </modules>
+  </component>
+</project>
