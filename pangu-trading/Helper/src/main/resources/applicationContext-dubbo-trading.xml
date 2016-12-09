@@ -23,7 +23,7 @@
 
     <!--url="10.144.35.115:20880"-->
 
-    <dubbo:reference registry="qwe" id="shoppingCartClient" interface="com.gome.pangu.trading.cart.client.ShoppingCartClient" loadbalance="random" version="1.1.1"  timeout="500000" check="false"/>
-    <dubbo:reference registry="qwe" id="shoppingCartQueryClient" interface="com.gome.pangu.trading.cart.client.ShoppingCartQueryClient" loadbalance="random" version="1.1.1"  timeout="500000" check="false"/>
+    <dubbo:reference registry="qwe" id="shoppingCartClient" interface="com.gome.pangu.trading.cart.client.ShoppingCartClient" loadbalance="random" version="1.2.0"  timeout="500000" check="false"/>
+    <dubbo:reference registry="qwe" id="shoppingCartQueryClient" interface="com.gome.pangu.trading.cart.client.ShoppingCartQueryClient" loadbalance="random" version="1.2.0"  timeout="500000" check="false"/>
 
 </beans>

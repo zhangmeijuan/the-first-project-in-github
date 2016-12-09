@@ -48,7 +48,6 @@
     <orderEntry type="library" name="Maven: com.github.sgroschupf:zkclient:0.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.zookeeper:zookeeper:3.3.3" level="project" />
     <orderEntry type="library" name="Maven: jline:jline:0.9.94" level="project" />
-    <orderEntry type="library" name="Maven: junit:junit:3.8.1" level="project" />
     <orderEntry type="library" name="Maven: com.google.inject:guice:3.0" level="project" />
     <orderEntry type="library" name="Maven: javax.inject:javax.inject:1" level="project" />
     <orderEntry type="library" name="Maven: aopalliance:aopalliance:1.0" level="project" />
